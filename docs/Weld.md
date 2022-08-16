@@ -22,3 +22,4 @@ If you must:
 - Touch the unwelder.  
 - Press Unweld Now.  
 
+.
